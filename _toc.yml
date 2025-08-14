@@ -1,0 +1,15 @@
+# _toc.yml
+
+format: jb-book
+root: intro
+chapters:
+- file: about
+- file: certifications
+- file: skills
+- file: projects
+- file: homelab
+  sections:
+  - file: home-lab/intro
+  - file: home-lab/server-setup
+  - file: home-lab/services
+- file: resume
