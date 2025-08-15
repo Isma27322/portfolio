@@ -24,4 +24,4 @@ Here are a few of the things I've built to put my skills into practice.
 * **My Approach:** The main roadblock is that at the time I didin't know much about Linux and the Linux command line and I found it scary, but I just started exploring it and discovered how much I like it now over a GUI(Graphical User Interface).
 * **Tech I Used:** A Linux server, bash, Python, docker, etc.
 * **The Outcome:** I think the biggist take away I had from this is just how much I learned about Linux and the Linux command line and how easy it really is to learn.
-* **Check it out:** [Take a tour of my home lab](./home-lab/intro.md)
+* **Check it out:** [Take a tour of my home lab](./home-lab/index.md)
