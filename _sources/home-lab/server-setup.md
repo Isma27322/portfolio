@@ -8,8 +8,8 @@
 * To get around the disk issue I had to do the custom storage layout to make it exactly the way I needed with the disk, swap, and the boot partitions
 
 ### Locking it Down
-* Even though it is a local server with not much access from the public internet, it is still good to lock it down these are the steps I took to do that:
+* Even though it is a local server with not much access from the public internet. It is still good to lock it down these are the steps I took to do that:
     1. Not allowing root login over ssh
-        * Is achually a default thing with the new ubuntu servers
+        * Is actually a default thing with the new ubuntu servers.
     2. Requing a ssh key to login over ssh and not allowing passwords
     3. Changing the default ssh port from the default 22
