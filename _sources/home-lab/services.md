@@ -13,7 +13,7 @@ I also found it really handy that it automatically saves my watch progress, maki
 ---
 ### NGINX Proxy
 * **What it is:** NGINX is a high-performance, self-hostable built-in reverse proxy that intercepts client requests and forwards them to appropriate backend servers—enhancing load balancing, security, and scalability.
-* **Why I run it:** It is just handy to be able to only enter a domain with a subdomain and have it lead to that service with no extra ports or aything to the domain
+* **Why I run it:** It is just handy to be able to only enter a domain with a subdomain and have it lead to that service with no extra ports or anything to the domain.
 * **Coolest thing I learned:** I think the coolest thing I learned is that this functionality is built right into NGINX. I also figured out how to use local-only domains (like jellyfin.dellinux.local) to point directly to a service's IP and port, like 192.168.40.22:8096. Another neat discovery was that by default, NGINX forwards any requests to the server's main IP address to the first service listed in the proxy configuration.
 
 ---
