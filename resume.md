@@ -11,7 +11,6 @@ _Information Technology Support Specialist_
 
 ---
 
-### Professional Summary
 A dedicated and detail-oriented IT Support Specialist with hands-on experience in Windows server and PC administration, programming in multiple languages (C++, Java, Python), and technical support tasks. Recently completed an Associate Degree in Information Technology Support Specialist at Northeast Wisconsin Technical College, earning Academic High Honors. Well-prepared for entry-level IT roles in support, help desk, or systems administration, bringing a strong foundation of technical knowledge, reliability, and initiative.
 
 ---
