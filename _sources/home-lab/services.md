@@ -5,7 +5,7 @@ I use Docker to run everything, which makes it fun and easy to spin up new servi
 ---
 ### Jellyfin
 * **What it is:** Jellyfin is a community-driven, self-hostable media server system that lets you manage and stream your own media collection without subscriptions or external dependencies. 
-* **Why I run it:** I wanted to be able to have a local video and music hosting
+* **Why I run it:** I wanted to be able to have videos and music localy hosted
 * **Coolest thing I learned:** I learned just how much Jellyfin relies on good file naming to pull in all the correct posters and
 show info. \
 I also found it really handy that it automatically saves my watch progress, making it easy to resume a movie or show later on any device.
