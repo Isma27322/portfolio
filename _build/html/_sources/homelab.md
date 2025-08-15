@@ -2,7 +2,7 @@
 
 ## The "Why"
 The reason why I started a home lab was first for being able to move stuff I was hosting in the cloud to local hosting. \
-I also wanted to have more flexablity with hosting because hosting at home can be a lot cheaper than hosting in the cloud. \
+I also wanted to have more flexibility with hosting because hosting at home can be a lot cheaper than hosting in the cloud. \
 I also wanted to be able to learn the Linux command line to be able to know it better.
 
 ## The Gear

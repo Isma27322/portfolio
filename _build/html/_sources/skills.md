@@ -11,7 +11,7 @@ Here's a look at the tools and technologies I've gotten comfortable with through
 * **Networking**
     * TCP/IP, DNS, DHCP, Configuring ciso routers and switches, seting up home network
 * **Software & Tools**
-    * Docker, SQL, Python, C++, Java, Python, Git and github
+    * Docker, SQL, Python, C++, Java, Python, Git and github, BASH
 
 ### Core Strengths
 
