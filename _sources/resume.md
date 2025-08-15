@@ -5,8 +5,8 @@
 # Isaac Manning
 _Information Technology Support Specialist_
 
-**Phone:** (920) 660-5435
-**Email:** Manningisaac4@gmail.com
+**Phone:** (920) 660-5435 \
+**Email:** Manningisaac4@gmail.com \
 **Address:** 1033 Tanager Trail, De Pere, WI
 
 ---
