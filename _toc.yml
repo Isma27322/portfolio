@@ -7,8 +7,8 @@ chapters:
 - file: certifications/index
 - file: skills/index
 - file: projects/index
-- file: homelab/index  
+- file: home-lab/index  
   sections:
-  - file: homelab/server-setup/index
-  - file: homelab/services/index
+  - file: home-lab/server-setup/index
+  - file: home-lab/services/index
 - file: resume/index
