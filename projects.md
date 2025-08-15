@@ -5,9 +5,9 @@ Here are a few of the things I've built to put my skills into practice.
 ---
 ### Learning Python
 * **The Challenge:** Learning python because It sounded like a fun challenge and I heard before that it had a lot of external libraries that work with python.
-* **My Approach:** Unlike some people, I was learning python from scrach with no knolage, just knowing other programing lanuages like it, C++
+* **My Approach:** Unlike some people, I was learning python from scrach with no knknowledge, just knowing other programing lanuages like it: C++
 * **Tech I Used:** Python
-* **The Outcome:** I would have to the outcome was a big lightbulb of ideas that I could now do, I just coulden't wait to start exploring, I would have to say I will never have a final outcome with python because I have only scratched the serfice of what I can do with it
+* **The Outcome:** The outcome was a big lightbulb of ideas that I could now do, I just couldin't wait to start exploring, I would have to say I will never have a final outcome with python because I have only scratched the surfice of what I can do with it. 
 
 ---
 ### Building a discord bot
