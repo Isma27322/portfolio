@@ -1,3 +1,6 @@
+!["My Portfolo logo"](./logo.png "My Portfolo Logo")
+
+
 # Isaac Manning
 A tech enthusiast who loves figuring things out and helping people.
 
