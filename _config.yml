@@ -21,7 +21,7 @@ bibtex_bibfiles:
 
 # Information about where the book exists on the web
 repository:
-  url: https://github.com/Isma27322/my-website  # Online location of your book
+  url: https://github.com/Isma27322/portfolo  # Online location of your book
   path_to_book: gp-pages  # Optional path to your book, relative to the repository root
   branch: main  # Which branch of the repository should be used when creating links (optional)
 
