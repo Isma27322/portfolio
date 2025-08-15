@@ -12,7 +12,7 @@ Here are a few of the things I've built to put my skills into practice.
 
 ---
 ### Building a discord bot
-<img src="./_static/Screenshot 2025-08-15 095239.png" alt="drawing" style="width:500px;"/> 
+<img src="./_static/Screenshot 2025-08-15 095239.png" alt="drawing" style="width:1000px;"/> 
 
 * **The Challenge:** The challenge was that I had to build a discord bot with Python using the discord.py library without useing any external tools to host the bot
 * **My Approach:** When I first started using discord.py I had to spend a lot of time looking it the documentation to figure out how it worked and what did what. I also did a lot of experimenting to see what did and didn't work, and just seeing how I can accomplish what I wanted to do at the time with that bot.
