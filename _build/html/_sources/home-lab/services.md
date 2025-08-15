@@ -29,7 +29,7 @@ I also found it really handy that it automatically saves my watch progress, maki
 
 ---
 ### Home Assistant 
-<img src="../_static/homeassistant-logo.png" width="80" height="80"/> <!-- Insert ha logo -->
+<img src="../_static/homeassistant-logo.png" width="80" height="80" style="background-color: transparent;"/> <!-- Insert ha logo -->
 
 * **What it is:** Home Assistant is an open-source, self-hostable smart-home automation platform that brings all your devices under local control with privacy and flexibility.
 * **Why I run it:** I wanted a open source home automation application for my smart devices. I wanted local control and not having to rely on the cloud to control my devices.
