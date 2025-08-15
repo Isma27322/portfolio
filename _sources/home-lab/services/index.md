@@ -4,7 +4,7 @@ I use Docker to run everything, which makes it fun and easy to spin up new servi
 
 ---
 ### Jellyfin
-<img src="../_static/Jellyfin-logo.png" width="80" height="80" style="background-color: transparent;"/>
+<img src="../../_static/Jellyfin-logo.png" width="80" height="80" style="background-color: transparent;"/>
 <!-- insert jellyfin logo -->
 
 * **What it is:** Jellyfin is a community-driven, self-hostable media server system that lets you manage and stream your own media collection without subscriptions or external dependencies. 
@@ -15,7 +15,7 @@ I also found it really handy that it automatically saves my watch progress, maki
 
 ---
 ### NGINX Proxy 
-<img src="../_static/nginx-logo.png" width="80" height="80" style="background-color: transparent;"/>
+<img src="../../_static/nginx-logo.png" width="80" height="80" style="background-color: transparent;"/>
 
 * **What it is:** NGINX is a high-performance, self-hostable built-in reverse proxy that intercepts client requests and forwards them to appropriate backend servers—enhancing load balancing, security, and scalability.
 * **Why I run it:** It is just handy to be able to only enter a domain with a subdomain and have it lead to that service with no extra ports or anything to the domain.
@@ -29,7 +29,7 @@ I also found it really handy that it automatically saves my watch progress, maki
 
 ---
 ### Home Assistant 
-<img src="../_static/homeassistant-logo.png" width="80" height="80" style="background-color: transparent;"/> <!-- Insert ha logo -->
+<img src="../../_static/homeassistant-logo.png" width="80" height="80" style="background-color: transparent;"/> <!-- Insert ha logo -->
 
 * **What it is:** Home Assistant is an open-source, self-hostable smart-home automation platform that brings all your devices under local control with privacy and flexibility.
 * **Why I run it:** I wanted a open source home automation application for my smart devices. I wanted local control and not having to rely on the cloud to control my devices.
@@ -37,7 +37,7 @@ I also found it really handy that it automatically saves my watch progress, maki
 
 ---
 ### n8n 
-<img src="../_static/n8n-logo.png" width="200" height="50" style="background-color: transparent;"/><!-- insert n8n logo -->
+<img src="../../_static/n8n-logo.png" width="200" height="50" style="background-color: transparent;"/><!-- insert n8n logo -->
 
 * **What it is:** n8n is a powerful, flexible automation workflow tool that uniquely serves as a self-hostable automation workflow tool, enabling technical teams to build complex, code-enabled automations or drag-and-drop workflows with full control over deployment.
 * **Why I run it:** I run n8n because, one it is just handy to have, and two because it is able to do program like automation that is able to talk to almost any external app
