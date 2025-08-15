@@ -8,7 +8,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <title>The Server Build &#8212; Isaac&#39;s portfolo</title>
+    <title>My Home Lab &#8212; Isaac&#39;s portfolo</title>
   
   
   
@@ -57,12 +57,9 @@
     <script async="async" src="../_static/sphinx-thebe.js?v=c100c467"></script>
     <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"; const thebe_selector = ".thebe,.cell"; const thebe_selector_input = "pre"; const thebe_selector_output = ".output, .cell_output"</script>
-    <script>DOCUMENTATION_OPTIONS.pagename = 'home-lab/server-setup';</script>
-    <link rel="author" title="About these documents" href="../about.html" />
+    <script>DOCUMENTATION_OPTIONS.pagename = 'home-lab/index';</script>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
-    <link rel="next" title="What’s Running on the Lab" href="services.html" />
-    <link rel="prev" title="My Home Lab" href="../homelab.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
   </head>
@@ -125,6 +122,8 @@
       
       
       
+        
+      
       <div class="bd-sidebar-primary bd-sidebar">
         
 
@@ -180,18 +179,11 @@
                 </a>
             </li>
         </ul>
-        <ul class="current nav bd-sidenav">
-<li class="toctree-l1"><a class="reference internal" href="../about.html">About Me</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../certifications.html">My Certifications</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../skills.html">My Skills</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../projects.html">My Projects</a></li>
-<li class="toctree-l1 current active has-children"><a class="reference internal" href="../homelab.html">My Home Lab</a><details open="open"><summary><span class="toctree-toggle" role="presentation"><i class="fa-solid fa-chevron-down"></i></span></summary><ul class="current">
-<li class="toctree-l2 current active"><a class="current reference internal" href="#">The Server Build</a></li>
-<li class="toctree-l2"><a class="reference internal" href="services.html">What’s Running on the Lab</a></li>
-</ul>
-</details></li>
-<li class="toctree-l1"><a class="reference internal" href="../resume.html">My Resumes</a></li>
-
+        <ul class="nav bd-sidenav">
+<li class="toctree-l1"><a class="reference internal" href="../about/index.html">About Me</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../certifications/index.html">My Certifications</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../skills/index.html">My Skills</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../projects/index.html">My Projects</a></li>
 </ul>
 
     </div>
@@ -263,7 +255,7 @@
       
       
       
-      <li><a href="https://github.com/Isma27322/portfolo/issues/new?title=Issue%20on%20page%20%2Fhome-lab/server-setup.html&body=Your%20issue%20content%20here." target="_blank"
+      <li><a href="https://github.com/Isma27322/portfolo/issues/new?title=Issue%20on%20page%20%2Fhome-lab/index.html&body=Your%20issue%20content%20here." target="_blank"
    class="btn btn-sm btn-source-issues-button dropdown-item"
    title="Open an issue"
    data-bs-placement="left" data-bs-toggle="tooltip"
@@ -293,7 +285,7 @@
       
       
       
-      <li><a href="../_sources/home-lab/server-setup.md" target="_blank"
+      <li><a href="../_sources/home-lab/index.md" target="_blank"
    class="btn btn-sm btn-download-source-button dropdown-item"
    title="Download source file"
    data-bs-placement="left" data-bs-toggle="tooltip"
@@ -377,7 +369,7 @@ document.write(`
               
 
 <div id="jb-print-docs-body" class="onlyprint">
-    <h1>The Server Build</h1>
+    <h1>My Home Lab</h1>
     <!-- Table of contents -->
     <div id="print-main-content">
         <div id="jb-print-toc">
@@ -387,9 +379,12 @@ document.write(`
             </div>
             <nav aria-label="Page">
                 <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#choosing-the-brains">Choosing the Brains</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-setup-process">The Setup Process</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#locking-it-down">Locking it Down</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-why">The “Why”</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-gear">The Gear</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#the-hardware-v1-original">The Hardware V1 (Original)</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#the-hardware-v2-current">The Hardware V2 (Current)</a></li>
+</ul>
+</li>
 </ul>
             </nav>
         </div>
@@ -401,36 +396,36 @@ document.write(`
 <div id="searchbox"></div>
                 <article class="bd-article">
                   
-  <section class="tex2jax_ignore mathjax_ignore" id="the-server-build">
-<h1>The Server Build<a class="headerlink" href="#the-server-build" title="Link to this heading">#</a></h1>
-<section id="choosing-the-brains">
-<h2>Choosing the Brains<a class="headerlink" href="#choosing-the-brains" title="Link to this heading">#</a></h2>
+  <section class="tex2jax_ignore mathjax_ignore" id="my-home-lab">
+<h1>My Home Lab<a class="headerlink" href="#my-home-lab" title="Link to this heading">#</a></h1>
+<section id="the-why">
+<h2>The “Why”<a class="headerlink" href="#the-why" title="Link to this heading">#</a></h2>
+<p>The reason why I started a home lab was first for being able to move stuff I was hosting in the cloud to local hosting. <br />
+I also wanted to have more flexibility with hosting because hosting at home can be a lot cheaper than hosting in the cloud. <br />
+I also wanted to be able to learn the Linux command line to be able to know it better.</p>
+</section>
+<section id="the-gear">
+<h2>The Gear<a class="headerlink" href="#the-gear" title="Link to this heading">#</a></h2>
+<section id="the-hardware-v1-original">
+<h3>The Hardware V1 (Original)<a class="headerlink" href="#the-hardware-v1-original" title="Link to this heading">#</a></h3>
 <ul class="simple">
-<li><p>How I chose the brains for my server, for my first home lab I used some old laptops I was gifted from my brother</p></li>
+<li><p><strong>System:</strong> Dell Latitude E6520</p></li>
+<li><p><strong>CPU:</strong> Intel Core i5-2540M</p></li>
+<li><p><strong>RAM:</strong> 4 GB</p></li>
+<li><p><strong>Storage:</strong> 320 GB HDD</p></li>
+<li><p><strong>OS:</strong> Debian 12 (Bookworm)</p></li>
 </ul>
 </section>
-<section id="the-setup-process">
-<h2>The Setup Process<a class="headerlink" href="#the-setup-process" title="Link to this heading">#</a></h2>
+<section id="the-hardware-v2-current">
+<h3>The Hardware V2 (Current)<a class="headerlink" href="#the-hardware-v2-current" title="Link to this heading">#</a></h3>
 <ul class="simple">
-<li><p>For my newest server install(ubuntu 24.04 LTS), I had a few problems during the setup. I had to install it twice, mostly because by default with formating the drive it does a LVM group(often used with servers with more than one disk) on the disk and I found it didn’t use the entire 500GB ssd</p></li>
-<li><p>To get around the disk issue I had to do the custom storage layout to make it exactly the way I needed with the disk, swap, and the boot partitions</p></li>
+<li><p><strong>System:</strong> Dell Latitude E6520</p></li>
+<li><p><strong>CPU:</strong> Intel Core i5-2540M</p></li>
+<li><p><strong>RAM:</strong> 8 GB (Upgraded)</p></li>
+<li><p><strong>Storage:</strong> 500 GB SSD (Upgraded)</p></li>
+<li><p><strong>OS:</strong> Ubuntu Server 24.04.2 LTS (Noble Numbat)</p></li>
 </ul>
 </section>
-<section id="locking-it-down">
-<h2>Locking it Down<a class="headerlink" href="#locking-it-down" title="Link to this heading">#</a></h2>
-<ul class="simple">
-<li><p>Even though it is a local server with not much access from the public internet. It is still good to lock it down these are the steps I took to do that:</p>
-<ol class="arabic simple">
-<li><p>Not allowing root login over ssh</p>
-<ul>
-<li><p>Is actually a default thing with the new ubuntu servers.</p></li>
-</ul>
-</li>
-<li><p>Requing a ssh key to login over ssh and not allowing passwords</p></li>
-<li><p>Changing the default ssh port from the default 22</p></li>
-</ol>
-</li>
-</ul>
 </section>
 </section>
 
@@ -464,24 +459,6 @@ document.write(`
                 <footer class="prev-next-footer d-print-none">
                   
 <div class="prev-next-area">
-    <a class="left-prev"
-       href="../homelab.html"
-       title="previous page">
-      <i class="fa-solid fa-angle-left"></i>
-      <div class="prev-next-info">
-        <p class="prev-next-subtitle">previous</p>
-        <p class="prev-next-title">My Home Lab</p>
-      </div>
-    </a>
-    <a class="right-next"
-       href="services.html"
-       title="next page">
-      <div class="prev-next-info">
-        <p class="prev-next-subtitle">next</p>
-        <p class="prev-next-title">What’s Running on the Lab</p>
-      </div>
-      <i class="fa-solid fa-angle-right"></i>
-    </a>
 </div>
                 </footer>
               
@@ -498,9 +475,12 @@ document.write(`
   </div>
   <nav class="bd-toc-nav page-toc">
     <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#choosing-the-brains">Choosing the Brains</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-setup-process">The Setup Process</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#locking-it-down">Locking it Down</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-why">The “Why”</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-gear">The Gear</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#the-hardware-v1-original">The Hardware V1 (Original)</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#the-hardware-v2-current">The Hardware V2 (Current)</a></li>
+</ul>
+</li>
 </ul>
   </nav></div>
 
