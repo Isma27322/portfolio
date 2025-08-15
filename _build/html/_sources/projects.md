@@ -3,7 +3,7 @@
 Here are a few of the things I've built to put my skills into practice.
 
 ---
-### Learning Python <img src="./_static/python-logo-452175197.png" alt="drawing" style="width:50px;"/>
+### Learning Python <img src="./_static/python-logo.png" alt="Python logo" style="width:50px;"/>
 
 * **The Challenge:** Learning Python because It sounded like a fun challenge and I heard before that it had a lot of external libraries that work with Python.
 * **My Approach:** Unlike some people, I was learning Python from scrach with no knknowledge, just knowing other programing lanuages like it: C++
@@ -12,7 +12,7 @@ Here are a few of the things I've built to put my skills into practice.
 
 ---
 ### Building a discord bot
-<img src="./_static/Screenshot 2025-08-15 095239.png" width="500" height="100"/> 
+<img src="./_static/Discord-bot.png" width="500" height="100"/> 
 
 * **The Challenge:** The challenge was that I had to build a discord bot with Python using the discord.py library without useing any external tools to host the bot
 * **My Approach:** When I first started using discord.py I had to spend a lot of time looking it the documentation to figure out how it worked and what did what. I also did a lot of experimenting to see what did and didn't work, and just seeing how I can accomplish what I wanted to do at the time with that bot.
