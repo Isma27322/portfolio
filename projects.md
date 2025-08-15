@@ -3,7 +3,8 @@
 Here are a few of the things I've built to put my skills into practice.
 
 ---
-### Learning Python
+### Learning Python <img src="./_static/python-logo-452175197.png" alt="drawing" style="width:50px;"/>
+
 * **The Challenge:** Learning Python because It sounded like a fun challenge and I heard before that it had a lot of external libraries that work with Python.
 * **My Approach:** Unlike some people, I was learning Python from scrach with no knknowledge, just knowing other programing lanuages like it: C++
 * **Tech I Used:** Python
