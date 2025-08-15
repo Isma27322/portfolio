@@ -25,27 +25,24 @@ I also found it really handy that it automatically saves my watch progress, maki
 ---
 ### Home Assistant
 * **What it is:** Home Assistant is an open-source, self-hostable smart-home automation platform that brings all your devices under local control with privacy and flexibility.
-* **Why I run it:** I wanted a open source home automation application for my smart devices, I wanted local control and not having to rely on the cloud to control my devices
-* **Coolest thing I learned:** I learned that my current smart devices are not nativly supported by home assistant but then I
-discovered the HACS (Home assistant Community Store) that allwed me to control my normally cloud only devices from a local only
-connection with no cloud involved. I also learned that it can support a lot of smart devices just out of the box with no extra 
-configuring needed
+* **Why I run it:** I wanted a open source home automation application for my smart devices. I wanted local control and not having to rely on the cloud to control my devices.
+* **Coolest thing I learned:** I learned that my current smart devices are not natively supported by home assistant but then I discovered the HACS (Home assistant Community Store) that allowed me to control my normally cloud only devices from a local only connection with no cloud involved. I also learned that it can support a lot of smart devices just out of the box with no extra configuring needed
 
 ---
-### N8N
+### n8n
 * **What it is:** n8n is a powerful, flexible automation workflow tool that uniquely serves as a self-hostable automation workflow tool, enabling technical teams to build complex, code-enabled automations or drag-and-drop workflows with full control over deployment.
-* **Why I run it:** I run n8n because one it is just handy to have, and two because it is able to do program like automation that is able to talk to almost any external app
+* **Why I run it:** I run n8n because, one it is just handy to have, and two because it is able to do program like automation that is able to talk to almost any external app
 * **Coolest thing I learned:** Some of the coolest things I learned is just the number of things that n8n can talk to, home assistant, discord, gmail, and so much more. And it is able to do it without to much setup from the end user using it. \
 I also like that it is so easy to understand what is happening when it is happening \
-You are also able to esealy see where an error happened.
+You are also able to easily see where an error happened.
 
 ---
 ### Docker
 * **What it is:** Docker is a flexible, self-hostable containerization platform that lets you deploy and run applications in lightweight, isolated containers across environments.
 * **Why I run it:** I run it mostly because you are able to run so many things on one server with things that normally need its own dedicated server. \
-You are also able to run an app without having to worry about it affecting the host system or other docker apps. \
-I also run it because you are able to run what is basicly a light weght vm with easy setup. \
-I also run it because you are able to run basicly any application in a contaerized format.
+You are also able to run an app without having to worry about it affecting the host system or other Docker apps. \
+I also run it because you are able to run what is basically a light weight virtual mashine(vm) with easy setup. \
+I also run it because you are able to run basically any application in a containerized format.
 * **Coolest thing I learned:**
-Some of the coolest things I learned is just how docker works, its like a regular vm just with not the dedicated resorses, it is able to just use the host resources with no dedicated guest(for a vm) resorses. \
-Another cool thing I learned is that with docker like a vm you can run a different operating systems(mostly linux), and even if it is different from the host operating system.
+Some of the coolest things I learned is just how Docker works, its like a regular vm just with not the dedicated resorses, it is able to just use the host resources with no dedicated guest(for a vm) resources. \
+Another cool thing I learned is that with Docker. Like a vm you can run a different operating systems(mostly linux), and even if it is different from the host operating system.
