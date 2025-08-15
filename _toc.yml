@@ -7,8 +7,8 @@ chapters:
 - file: certifications/index
 - file: skills/index
 - file: projects/index
-- file: homelab/index  # <-- This is the main landing page for the "Homelab" chapter
-  sections:           # <-- `sections` should be at the same level as `file:`
+- file: homelab/index  
+  sections:
   - file: homelab/server-setup/index
   - file: homelab/services/index
 - file: resume/index
