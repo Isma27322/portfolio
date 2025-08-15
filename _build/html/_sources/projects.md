@@ -12,6 +12,8 @@ Here are a few of the things I've built to put my skills into practice.
 
 ---
 ### Building a discord bot
+<img src="./_static/Screenshot 2025-08-15 095239.png" alt="drawing" style="width:500px;"/> 
+
 * **The Challenge:** The challenge was that I had to build a discord bot with Python using the discord.py library without useing any external tools to host the bot
 * **My Approach:** When I first started using discord.py I had to spend a lot of time looking it the documentation to figure out how it worked and what did what. I also did a lot of experimenting to see what did and didn't work, and just seeing how I can accomplish what I wanted to do at the time with that bot.
 * **The cool things I learned:** I have to say the coolest thing I learned was just how to work with an external library in Python. This was one of my first times doing that, it was also when I learned how to read and write from files, even while the program was activily running.
