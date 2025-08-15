@@ -2,7 +2,8 @@
 
 
 # Isaac Manning
-A tech enthusiast who loves figuring things out and helping people.
+A tech enthusiast who loves figuring things out and helping people.  
+<img src="./_static/photo.jpg" width="100" height="120"/> 
 
 ---
 
