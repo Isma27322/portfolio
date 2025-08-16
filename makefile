@@ -6,7 +6,7 @@ clean:
 	jupyter-book clean .
 
 build:
-	jupyter-book build --builder dirhtml .
+	jupyter-book build .
 
 push:
 	git add .
