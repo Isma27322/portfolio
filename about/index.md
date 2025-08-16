@@ -10,8 +10,8 @@ I'm always looking for the next challenge and I'm never afraid to ask questions 
 
 ### Education
 * **Associate Degree, IT** - Northeast Wisconsin Technical College (NWTC)
-    * Expected Graduation: Spring 2025
-    * Honors: Academic High Honors
+    * Graduated: Spring 2025
+    * Highest Honors
 
 * **High school diploma** - De Pere High School (DPHS)
     * Graduated: Spring 2023

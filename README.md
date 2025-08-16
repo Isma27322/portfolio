@@ -22,4 +22,4 @@ You'll find details on:
 
 ## Tech Stack
 
-This site is built using JyputerBooks
+This site is built using JupyterBooks
