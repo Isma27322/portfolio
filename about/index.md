@@ -1,5 +1,6 @@
 # About Me
 
+<img src="../_static/photo.jpg" width="100" height="120"/>
 
 
 ### My Approach to Tech
