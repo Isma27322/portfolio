@@ -2,7 +2,7 @@
 
 Here's a look at the tools and technologies I've gotten comfortable with through my classes and my own hands-on projects.
 
-### Technical Skills
+## Technical Skills
 
 * **Operating Systems**
     * Windows 10, 11, Ubuntu, Debian, Windows server
@@ -13,7 +13,7 @@ Here's a look at the tools and technologies I've gotten comfortable with through
 * **Software & Tools**
     * Docker, SQL, Python, C++, Java, Git and github, BASH
 
-### Core Strengths
+## Core Strengths
 
 * **Problem Solving:** I love the challenge of digging into an issue until I find the root cause.
 * **Communication:** I'm good at explaining technical stuff in a way that makes sense, without a lot of jargon.
