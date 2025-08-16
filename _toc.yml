@@ -3,12 +3,12 @@
 format: jb-book
 root: index
 chapters:
-- file: about
-- file: certifications
-- file: skills
-- file: projects
-- file: home-lab
+- file: about/index
+- file: certifications/index
+- file: skills/index
+- file: projects/index
+- file: home-lab/index
   sections:
-  - file: home-lab/server-setup
-  - file: home-lab/services
-- file: resume
+  - file: home-lab/server-setup/index
+  - file: home-lab/services/index
+- file: resume/index
