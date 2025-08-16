@@ -5,13 +5,15 @@
 # Isaac Manning
 _Information Technology Support Specialist_
 
-**Phone:** (920) 660-5435 \
 **Email:** Manningisaac4@gmail.com \
 **Address:** 1033 Tanager Trail, De Pere, WI
 
 ---
 
 A dedicated and detail-oriented IT Support Specialist with hands-on experience in Windows server and PC administration, programming in multiple languages (C++, Java, Python), and technical support tasks. Recently completed an Associate Degree in Information Technology Support Specialist at Northeast Wisconsin Technical College, earning Academic High Honors. Well-prepared for entry-level IT roles in support, help desk, or systems administration, bringing a strong foundation of technical knowledge, reliability, and initiative.
+
+<!-- Shorter virsion not final:
+ As a recent IT Support Specialist graduate with high honors, I offer practical skills in Windows server administration, programming, and technical support. I am eager to apply my strong technical foundation and reliability to an entry-level IT position. -->
 
 ---
 
