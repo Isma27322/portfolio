@@ -32,7 +32,7 @@ I also found it really handy that it automatically saves my watch progress, maki
 <img src="../../_static/homeassistant-logo.png" width="80" height="80" style="background-color: transparent;"/> <!-- Insert ha logo -->
 
 * **What it is:** Home Assistant is an open-source, self-hostable smart-home automation platform that brings all your devices under local control with privacy and flexibility.
-* **Why I run it:** I wanted a open source home automation application for my smart devices. I wanted local control and not having to rely on the cloud to control my devices.
+* **Why I run it:** I wanted an open source home automation application for my smart devices. I wanted local control and not having to rely on the cloud to control my devices.
 * **Coolest thing I learned:** I learned that my current smart devices are not natively supported by home assistant but then I discovered the HACS (Home assistant Community Store) that allowed me to control my normally cloud only devices from a local only connection with no cloud involved. I also learned that it can support a lot of smart devices just out of the box with no extra configuring needed
 
 ---
@@ -40,7 +40,7 @@ I also found it really handy that it automatically saves my watch progress, maki
 <img src="../../_static/n8n-logo.png" width="200" height="50" style="background-color: transparent;"/><!-- insert n8n logo -->
 
 * **What it is:** n8n is a powerful, flexible automation workflow tool that uniquely serves as a self-hostable automation workflow tool, enabling technical teams to build complex, code-enabled automations or drag-and-drop workflows with full control over deployment.
-* **Why I run it:** I run n8n because, one it is just handy to have, and two because it is able to do program like automation that is able to talk to almost any external app
+* **Why I run it:** I run n8n because it is handy to have, and it can perform program-like automation that connects with almost any external app.
 * **Coolest thing I learned:** Some of the coolest things I learned is just the number of things that n8n can talk to, home assistant, discord, gmail, and so much more. And it is able to do it without to much setup from the end user using it. \
 I also like that it is so easy to understand what is happening while it is happening \
 You are also able to easily see where an error happened.
@@ -52,8 +52,8 @@ You are also able to easily see where an error happened.
 * **What it is:** Docker is a flexible, self-hostable containerization platform that lets you deploy and run applications in lightweight, isolated containers across environments.
 * **Why I run it:** I run it mostly because you are able to run so many things on one server with things that normally need its own dedicated server. \
 You are also able to run an app without having to worry about it affecting the host system or other Docker apps. \
-I also run it because you are able to run what is basically a light weight virtual mashine(vm) with easy setup. \
+I also run it because you can run what is basically a lightweight virtual machine (VM) with an easy setup. \
 I also run it because you are able to run basically any application in a containerized format.
 * **Coolest thing I learned:**
-Some of the coolest things I learned is just how Docker works, its like a regular vm just with not the dedicated resorses, it is able to just use the host resources with no dedicated guest(for a vm) resources. \
+Some of the coolest things I learned is just how Docker works, It's like a regular VM but without dedicated resources; it can use the host's resources with no dedicated guest resources. \
 Another cool thing I learned with Docker is that, like a VM, you can run a different operating system (mostly Linux), even if it is different from the host operating system.
