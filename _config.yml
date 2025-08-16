@@ -35,4 +35,6 @@ html:
 
 # Patterns to exclude from the build
 exclude_patterns:
-  - "backup/"
+  - "backup/"          # Ignores the entire backup directory
+  - "README.md"        # Ignores the root README file
+  - "notebooks.ipynb"  # Ignores this specific notebook
