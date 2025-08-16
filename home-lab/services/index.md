@@ -24,7 +24,7 @@ I also found it really handy that it automatically saves my watch progress, maki
 ---
 ### NGINX Web Server
 * **What it is:** NGINX is a high-performance, self-hostable HTTP web server designed for serving static and dynamic content with minimal resource usage, built on an event-driven, asynchronous architecture that ensures exceptional speed and scalability.
-* **Why I run it:** It is just handy to be able to easly run a web server without the hassle of seting it up yourself.
+* **Why I run it:** It is just handy to be able to easily run a web server without the hassle of seting it up yourself.
 * **Coolest thing I learned:** I honestly didn't learn much with this one, as it just worked out of the box!
 
 ---
@@ -42,7 +42,7 @@ I also found it really handy that it automatically saves my watch progress, maki
 * **What it is:** n8n is a powerful, flexible automation workflow tool that uniquely serves as a self-hostable automation workflow tool, enabling technical teams to build complex, code-enabled automations or drag-and-drop workflows with full control over deployment.
 * **Why I run it:** I run n8n because, one it is just handy to have, and two because it is able to do program like automation that is able to talk to almost any external app
 * **Coolest thing I learned:** Some of the coolest things I learned is just the number of things that n8n can talk to, home assistant, discord, gmail, and so much more. And it is able to do it without to much setup from the end user using it. \
-I also like that it is so easy to understand what is happening when it is happening \
+I also like that it is so easy to understand what is happening while it is happening \
 You are also able to easily see where an error happened.
 
 ---
@@ -56,4 +56,4 @@ I also run it because you are able to run what is basically a light weight virtu
 I also run it because you are able to run basically any application in a containerized format.
 * **Coolest thing I learned:**
 Some of the coolest things I learned is just how Docker works, its like a regular vm just with not the dedicated resorses, it is able to just use the host resources with no dedicated guest(for a vm) resources. \
-Another cool thing I learned is that with Docker. Like a vm you can run a different operating systems(mostly linux), and even if it is different from the host operating system.
+Another cool thing I learned with Docker is that, like a VM, you can run a different operating system (mostly Linux), even if it is different from the host operating system.

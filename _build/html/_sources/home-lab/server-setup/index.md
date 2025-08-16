@@ -4,7 +4,7 @@
 * How I chose the brains for my server, for my first home lab I used some old laptops I was gifted from my brother
 
 ### The Setup Process
-* For my newest server install(ubuntu 24.04 LTS), I had a few problems during the setup. I had to install it twice, mostly because by default with formating the drive it does a LVM group(often used with servers with more than one disk) on the disk and I found it didn't use the entire 500GB ssd
+* For my newest server install(ubuntu 24.04 LTS), I had to install it twice. This was mostly because the default formatting creates an LVM group (often used with servers that have more than one disk), and I found it didn't use the entire 500GB SSD.
 * To get around the disk issue I had to do the custom storage layout to make it exactly the way I needed with the disk, swap, and the boot partitions
 
 ### Locking it Down
