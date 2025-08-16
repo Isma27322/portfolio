@@ -32,3 +32,7 @@ html:
   use_issues_button: true
   use_repository_button: true
   clean_urls: true
+
+# Patterns to exclude from the build
+exclude_patterns:
+  - "backup/"
