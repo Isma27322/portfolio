@@ -4,11 +4,11 @@ To me, learning doesn't stop after graduation. I'm always pushing to learn more,
 
 ---
 
-## What I'm Working On Now
+### What I'm Working On Now
 * **CompTIA A+**
     * I am about 80% complete with studying for the certification and am hoping to take the exam soon.
 
-## What's on the Horizon
+### What's on the Horizon
 * CCNA (Cisco Certified Network Associate)
 * CCNP (Cisco Certified Network Professional)
 * CompTIA Security+

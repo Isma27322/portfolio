@@ -39,3 +39,8 @@ exclude_patterns:
   - backup/
   - README.md
   - notebooks.ipynb
+
+sphinx:
+  config:
+    suppress_warnings:
+      - myst.header

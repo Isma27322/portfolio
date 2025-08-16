@@ -3,7 +3,7 @@
 Here are a few of the things I've built to put my skills into practice.
 
 ---
-## Learning Python <img src="../_static/python-logo.png" alt="Python logo" style="width:50px; background-color: transparent;"/>
+### Learning Python <img src="../_static/python-logo.png" alt="Python logo" style="width:50px; background-color: transparent;"/>
 
 * **The Challenge:** Learning Python because It sounded like a fun challenge and I heard before that it had a lot of external libraries that work with Python.
 * **My Approach:** Unlike some people, I was learning Python from scratch with no knowledge, just knowing other programming languages like it: C++
@@ -11,7 +11,7 @@ Here are a few of the things I've built to put my skills into practice.
 * **The Outcome:** The outcome was a big lightbulb of ideas that I could now do. I just couldn't wait to start exploring. I would have to say I will never have a final outcome with Python because I have only scratched the surface of what I can do with it. worked
 
 ---
-## Building a Discord Bot
+### Building a Discord Bot
 <img src="../_static/Discord-bot.png" width="500" height="100"/> 
 
 * **The Challenge:** The challenge was that I had to build a Discord Bot with Python using the discord\.py library, without using any external tools to host the bot
@@ -22,7 +22,7 @@ Here are a few of the things I've built to put my skills into practice.
 * **Check it out:** https://github.com/Isma27322/MyDiscordBots
 
 ---
-## Building my Home Lab
+### Building my Home Lab
 * **The Challenge:** The main challenge for me is that I wanted to get away from the cloud a little and make my own home lab
 * **My Approach:** The main roadblock is that at the time I didn't know much about Linux and the Linux command line and I found it scary, but I just started exploring it and discovered how much I like it now over a GUI(Graphical User Interface).
 * **Tech I Used:** A Linux server, BASH, Python, Docker, etc.

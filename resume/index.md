@@ -17,7 +17,7 @@ A dedicated and detail-oriented IT Support Specialist with hands-on experience i
 
 ---
 
-## Skills
+### Skills
 
 **Technical Skills**
 * **Administration:** Windows Servers and PCs
@@ -32,7 +32,7 @@ A dedicated and detail-oriented IT Support Specialist with hands-on experience i
 
 ---
 
-## Work Experience
+### Work Experience
 
 **IT Intern** | FyterTech Nonwovens | _De Pere, WI_ | _July 2024 - December 2024_
 * Filmed and edited clear and informative training videos.
@@ -51,7 +51,7 @@ A dedicated and detail-oriented IT Support Specialist with hands-on experience i
 
 ---
 
-## Education
+### Education
 
 **Northeast Wisconsin Technical College** | _Green Bay, WI_ | _2023 - 2025_
 * **Degree:** Associate Degree, Information Technology Support Specialist
@@ -60,7 +60,7 @@ A dedicated and detail-oriented IT Support Specialist with hands-on experience i
 
 ---
 
-## Awards & Accomplishments
+### Awards & Accomplishments
 
 **Boy Scouts of America** | _De Pere, WI_ | _2011 - 2023_
 * **Eagle Scout Rank** | _Earned: July 12, 2022_
