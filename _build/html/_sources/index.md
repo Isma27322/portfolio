@@ -1,4 +1,4 @@
-!["My Portfolo logo"](./logo.png "My Portfolo Logo")
+!["My Portfolio logo"](./logo.png "My Portfolio Logo")
 
 
 # Isaac Manning
