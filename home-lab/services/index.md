@@ -47,7 +47,7 @@ You are also able to easily see where an error happened.
 
 ---
 ### Docker 
-<img src="../_static/Docker-Logo.png" width="160" height="80" style="background-color: transparent;"/><!-- insert docker logo -->
+<img src="../../_static/Docker-Logo.png" width="160" height="80" style="background-color: transparent;"/><!-- insert docker logo -->
 
 * **What it is:** Docker is a flexible, self-hostable containerization platform that lets you deploy and run applications in lightweight, isolated containers across environments.
 * **Why I run it:** I run it mostly because you are able to run so many things on one server with things that normally need its own dedicated server. \
