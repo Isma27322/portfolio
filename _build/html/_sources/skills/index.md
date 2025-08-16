@@ -9,9 +9,9 @@ Here's a look at the tools and technologies I've gotten comfortable with through
 * **Hardware**
     * Building a computer from scratch, troubleshooting components, 
 * **Networking**
-    * TCP/IP, DNS, DHCP, Configuring ciso routers and switches, seting up home network
+    * TCP/IP, DNS, DHCP, Configuring Cisco routers and switches, setting up home network
 * **Software & Tools**
-    * Docker, SQL, Python, C++, Java, Python, Git and github, BASH
+    * Docker, SQL, Python, C++, Java, Git and github, BASH
 
 ### Core Strengths
 
