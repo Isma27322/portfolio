@@ -51,10 +51,10 @@ You are also able to easily see where an error occurred.
 <img src="../../_static/Docker-Logo.png" width="160" height="80" style="background-color: transparent;"/><!-- insert docker logo -->
 
 * **What it is:** Docker is a flexible, self-hostable containerization platform that lets you deploy and run applications in lightweight, isolated containers across environments.
-* **Why I run it:** You can run many containerized apps on one server. Things that normally need its own dedicated server. \
-You are also able to run an app without having to worry about it affecting the host system or other Docker apps. \
-I also run it because you can run what is basically a lightweight virtual machine (VM) with an easy setup. \
-I also run it because you are able to run basically any application in a containerized format.
+* **Why I run it:** You can run many containerized apps on one server. This is more efficient than them each being own dedicated server. \
+    * You can run an app without having to worry about it affecting the host system or other Docker apps.
+    * You can run what a lightweight virtual machine (VM) with an easy setup
+    * You are able to run any application in a containerized format.
 * **Coolest thing I learned:**
 Some of the coolest things I learned is how Docker works, It's like a regular VM but without dedicated resources; it can use the host's resources with no dedicated guest resources. \
 Another cool thing I learned with Docker is that, like a VM, you can run a different operating system (mostly Linux), even if it is different from the host operating system.
