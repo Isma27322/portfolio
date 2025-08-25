@@ -4,9 +4,9 @@ Welcome to the repository for my personal portfolio website. This site is design
 
 **View the live portfolio here!**
 
-```
-https://isma27322.github.io/portfolio/
-```
+
+<isma27322.github.io/portfolio/>
+
 
 ---
 
