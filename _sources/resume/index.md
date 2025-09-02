@@ -5,8 +5,7 @@
 # Isaac Manning
 _Information Technology Support Specialist_
 
-**Email:** Manningisaac4@gmail.com \
-**Address:** 1033 Tanager Trail, De Pere, WI
+**Email:** Manningisaac4@gmail.com
 
 ---
 

@@ -10,6 +10,7 @@ I'm always looking for the next challenge and I'm never afraid to ask questions 
 
 ### Education
 * **Associate Degree, IT** - Northeast Wisconsin Technical College (NWTC)
+    * It technical Support specialist Degree
     * Graduated: Spring 2025
     * Highest Honors
 
