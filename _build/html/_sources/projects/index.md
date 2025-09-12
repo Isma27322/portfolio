@@ -23,8 +23,19 @@ Here are a few of the things I've built to put my skills into practice.
 
 ---
 ### Building my Home Lab
+<img src="../_static/fabric-logo.gif" width="80" height="80" style="background-color: transparent;"/>
 * **The Challenge:** The main challenge for me was that I wanted to get away from the cloud a little and make my own home lab
 * **My Approach:** The main roadblock is that at the time I didn't know much about Linux and the Linux command line and I found it scary, but I started exploring it and discovered how much I like it now over a GUI(Graphical User Interface).
 * **Tech I Used:** A Linux server, BASH, Python, Docker, etc.
 * **The Outcome:** I think the biggest take away I had from this is just how much I learned about Linux and the Linux command line and how easy it really is to learn.
 * **Check it out:** [Take a tour of my home lab](../home-lab/index.md)
+
+---
+### Learning Fabric
+* **What is Fabric?** Fabric is an open-source framework that uses AI to augment human capabilities by providing a modular system for creating, sharing, and managing AI prompts to solve specific, real-world problems.
+* **The Challenge:** The main challenge for me was it is a new tool that I never used before
+* **My Approach:** My approach was mainly just to experiment with it see what it did.
+* **Tech I Used:** Fabric
+* **Why I use it:** I use it because fabric is a really powerful tool that is fully customizable, I also use it because it is able to help me with my day to day life.
+* **The Outcome:** I think the outcome is always growing, fabric is a very powerful tool that you can make work exactly the way you want.
+* **Check it out00:** [The official fabric github](https://github.com/danielmiessler/fabric)
