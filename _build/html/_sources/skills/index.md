@@ -11,7 +11,7 @@ Here's a look at the tools and technologies I've gotten comfortable with through
 * **Networking**
     * TCP/IP, DNS, DHCP, Configuring Cisco routers and switches, setting up home network
 * **Software & Tools**
-    * Docker, SQL, Python, C++, Java, Git & GitHub, BASH
+    * Docker, SQL, Python, C++, Java, Git & GitHub, BASH, [Fabric](https://isma27322.github.io/portfolio/projects/index.html#learning-fabric)
 
 ### Core Strengths
 
