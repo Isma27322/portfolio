@@ -16,6 +16,7 @@ The videos are somewhat interactive where we allow the people to follow along wi
 The videos are not too long to not lose interest of some people
 The videos show parts of the trains that some people might not notice/ be able to see
 The videos talk about the history of the trains that people might not know about the trains
+The videos are fast passed to keep people interested
 
 ## The trains that I did the videos on
 The 6 trains/ train cars that I did videos on are:
