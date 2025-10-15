@@ -17,6 +17,15 @@ The videos are not too long to not lose interest of some people
 The videos show parts of the trains that some people might not notice/ be able to see
 The videos talk about the history of the trains that people might not know about the trains
 
+## The trains that I did the videos on
+The 6 trains/ train cars that I did videos on are:
+* Union Pacific #4017 "Big Boy"
+* The Aerotrain
+* The Dynamometer
+* The Dwight D. Eisenhower Train
+* The Pennsylvania Railroad #4890 GG1
+* The Merci Train
+
 ## The videos:
 You don't have to watch them but these are all the videos
 
