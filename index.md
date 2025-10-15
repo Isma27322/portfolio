@@ -18,3 +18,4 @@ I'm a recent college graduate who's excited to dive into the IT world. I'm passi
 * [**Check out my skills**](./skills/index.md)
 * [**Certifications**](./certifications/index.md)
 * [**Take a tour of my home lab**](./home-lab/index.md)
+* [**My Eagle project**](./eagle-project/index.md)
